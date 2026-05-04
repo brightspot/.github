@@ -1,7 +1,7 @@
 ## Brightspot
 
 **Brightspot is a composable content platform that powers enterprise-scale digital experiences.**  
-We enable organizations to create, manage, and deliver content across every channel — with governance, orchestration, and AI built in.
+We enable organizations to create, manage and deliver content across every channel — with governance, orchestration and AI built in.
 
 👉 https://www.brightspot.com  
 📘 https://docs.brightspot.com
@@ -10,15 +10,15 @@ We enable organizations to create, manage, and deliver content across every chan
 
 ### Platform Overview
 
-Brightspot is an enterprise-grade content management system designed to support complex digital ecosystems across industries including media, retail, government, and education.
+Brightspot is an enterprise-grade content management system designed to support complex digital ecosystems across industries including media, retail, government and education.
 
 - Hybrid CMS architecture (headless flexibility + editorial control)  
 - Structured content modeling for reuse and scale  
-- Multi-site, multi-brand, and multi-channel delivery  
+- Multi-site, multi-brand and multi-channel delivery  
 - Workflow automation with enterprise governance  
-- Embedded AI for content creation, enrichment, and optimization  
+- Embedded AI for content creation, enrichment and optimization  
 
-Brightspot serves as the operational backbone for digital experience delivery — governing how content is created, approved, and distributed across channels.
+Brightspot serves as the operational backbone for digital experience delivery — governing how content is created, approved and distributed across channels.
 
 ---
 
@@ -26,9 +26,9 @@ Brightspot serves as the operational backbone for digital experience delivery �
 
 Brightspot AI is embedded directly into editorial workflows to accelerate content creation while maintaining control and compliance.
 
-- AI-assisted authoring, summarization, and translation  
+- AI-assisted authoring, summarization and translation  
 - Metadata enrichment and content optimization  
-- Built-in guardrails, audit trails, and governance controls  
+- Built-in guardrails, audit trails and governance controls  
 - Model flexibility across enterprise LLM providers  
 
 ---
@@ -37,10 +37,10 @@ Brightspot AI is embedded directly into editorial workflows to accelerate conten
 
 - Content authoring and structured publishing  
 - Workflow orchestration and approvals  
-- Digital asset management (images, video, documents)  
+- Digital asset management (images, video and documents)  
 - API-first delivery (GraphQL and REST)  
 - Personalization and audience targeting  
-- Integration with CRM, DAM, analytics, and commerce systems  
+- Integration with CRM, DAM, analytics and commerce systems  
 
 ---
 
@@ -49,7 +49,7 @@ Brightspot AI is embedded directly into editorial workflows to accelerate conten
 - 📘 Documentation: https://docs.brightspot.com  
 - 🔌 Platform Overview: https://www.brightspot.com/brightspot-cms  
 - 📚 Resource Hub: https://www.brightspot.com/cms-resources  
-- 🚀 Request a Demo: https://www.brightspot.com  
+- 🚀 Request a Demo: https://www.brightspot.com/request-demo  
 
 ---
 
@@ -61,14 +61,15 @@ Brightspot powers digital experiences across:
 - Retail & eCommerce  
 - Government & Public Sector  
 - Healthcare & Education  
-- Enterprise Digital Experience Platforms  
+- Manufacturing  
+- Biotech  
 
 ---
 
 ### Our Approach
 
 We believe content is no longer static.  
-It is structured, dynamic, and increasingly AI-assisted.
+It is structured, dynamic and increasingly AI-assisted.
 
 Brightspot is built to help organizations:
 
@@ -83,7 +84,7 @@ Brightspot is built to help organizations:
 
 - 🌐 Website: https://www.brightspot.com  
 - 💼 LinkedIn: https://www.linkedin.com/company/brightspot  
-- 📰 Resources & Insights: https://www.brightspot.com/cms-resources  
+- 📰 Resources & Insights: https://www.brightspot.com/cms-resources   
 
 ---
 
