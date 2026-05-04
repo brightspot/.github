@@ -84,7 +84,6 @@ Brightspot is built to help organizations:
 - 🌐 Website: https://www.brightspot.com  
 - 💼 LinkedIn: https://www.linkedin.com/company/brightspot  
 - 📰 Resources & Insights: https://www.brightspot.com/cms-resources  
-- 🎥 YouTube: https://www.youtube.com/@brightspot  
 
 ---
 
